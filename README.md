@@ -13,7 +13,7 @@ M5StickCのBeetleCをゲームパッドから操作するWindows用のアプリ�
 　　(Windowsが認識すれば何でもいいです）<BR>
 
 3. PCをBeetleCにWifiで接続してください。<BR>
-　　※なおBeetleCは、M5Stickに公式サイトの初期のアプリだけ入れておいてください。<BR>
+　　※BeetleCは、M5Stickに公式サイトの初期のアプリだけ入れておいてください。<BR>
 
 4. アプリ(BeetleCtl.exe)を起動して、「開始」ボタンを押してください。<BR>
 
