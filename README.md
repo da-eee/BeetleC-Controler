@@ -27,4 +27,5 @@ M5StickCのBeetleCをゲームパッドから操作するWindows用のアプリ�
    ボタン２：　　スピードダウン<BR>
 　　※スピードに応じて車体のLEDの色が変わります。<BR>
   
-■ Qiitaの記事へリンク：https://qiita.com/yi_2018/items/822811c0ba29725354ee
+■ Qiitaの記事へリンク<BR>
+  https://qiita.com/yi_2018/items/822811c0ba29725354ee
